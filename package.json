@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-cluster",
+  "version": "1.0.0",
+  "description": "How to utilise multiple core CPUs while running your Nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server"
+  },
+  "author": "mohitmohlia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
